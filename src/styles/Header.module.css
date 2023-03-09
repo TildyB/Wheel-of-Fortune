@@ -1,0 +1,16 @@
+.headerContainer {
+    width: 100%;
+    background-color: #1D1F24;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+   }
+
+  .headerContainer img{
+    width: 4%;
+  } 
+  .headerLeftDiv{
+    display: flex;
+    gap: 2rem;
+  }

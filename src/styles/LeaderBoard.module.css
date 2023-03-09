@@ -1,0 +1,10 @@
+.userDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 1.3em;
+}
+.dashedLine{
+    border: 2px dashed #be9431;
+    margin: 1rem
+  }

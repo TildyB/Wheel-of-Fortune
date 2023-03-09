@@ -1,0 +1,25 @@
+.firstDiv{
+    color: #be9431;
+    text-align: center;
+    font-size: 2rem;
+    letter-spacing: 0.3rem;
+}
+.firstDiv h1{
+    font-weight: bold;
+}
+.loginMain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.imgDiv{
+    display: flex;
+    justify-content: center;
+}
+.imgDiv img{
+    width: 80%;
+}
+.secondDiv h2{
+    color: red;
+}

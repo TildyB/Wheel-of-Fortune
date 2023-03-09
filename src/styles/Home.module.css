@@ -1,0 +1,21 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.gameContainer{
+  display: flex;
+  height: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.gameLeftContainer{
+  background-color: #294A42;
+  display: flex;
+  justify-content: center;
+  min-width: 70%;
+  flex-grow: 1;
+  padding: 2rem;
+}
+
