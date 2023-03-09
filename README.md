@@ -1,28 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a simple GitHub repository for the Wheel of Fortune Next.js project. Next.js is a popular framework for building server-side rendered React applications.
 
 ## Getting Started
 
-https://www.wheeloffortune.com/sites/default/files/logo-5_0_0.png
+To get started with this project, you will need to do the following:
 
-First, run the development server:
+   1. Clone this repository to your local machine: git clone https://github.com/TildyB/Wheel-of-Fortune.git
+   2. Install the dependencies by running `npm install`
+   3. Run the development server by running `npm run dev`
+   4. Open http://localhost:3000 in your browser to see the application running.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
